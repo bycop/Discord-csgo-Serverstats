@@ -1,0 +1,10 @@
+{
+    "prefix" : "!",
+    "discord" : "",
+    "channel" : "",
+    "ipabs" : "",
+    "port" : "",
+    "activity" : "GameActivity",
+    "max" : "100",
+    "token" : ""
+}

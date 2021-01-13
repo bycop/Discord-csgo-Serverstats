@@ -1,0 +1,12 @@
+{
+  "name": "fivemdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "gamedig": "^2.0.24"
+  }
+}
