@@ -1,10 +1,10 @@
 {
     "prefix" : "!",
-    "discord" : "",
-    "channel" : "",
-    "ipabs" : "",
-    "port" : "",
+    "discord" : "995574166013100042",
+    "channel" : "995574166013100045",
+    "ipabs" : "185.193.165.2",
+    "port" : "27015",
     "activity" : "GameActivity",
     "max" : "100",
-    "token" : ""
+    "token" : "OTk1NTc0MDE0MDQ1MDY1MjM2.GMPLt1.CCvQLZt9br2sqFN8G7xMoq7QZfe3DNPVtK43pI"
 }
